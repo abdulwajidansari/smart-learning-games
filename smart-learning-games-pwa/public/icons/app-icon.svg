@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Smart Learning Games">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7569ff"/><stop offset="1" stop-color="#34c9d5"/></linearGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#f3f1ff"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="132" fill="url(#bg)"/>
+  <circle cx="104" cy="112" r="34" fill="#ffe27a" opacity=".95"/>
+  <path d="M137 167c0-21 17-38 38-38h162c21 0 38 17 38 38v202c0 21-17 38-38 38H175c-21 0-38-17-38-38V167Z" fill="url(#page)"/>
+  <path d="M255 163v227" stroke="#d9d5ff" stroke-width="11" stroke-linecap="round"/>
+  <path d="m190 212 18 18 35-42m46 33h43M190 286l18 18 35-42m46 33h43M190 354l18 18 35-42m46 33h43" fill="none" stroke="#6d5dfc" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m367 98 8 18 18 8-18 8-8 18-8-18-18-8 18-8 8-18Z" fill="#fff"/>
+  <path d="m98 329 6 13 13 6-13 6-6 13-6-13-13-6 13-6 6-13Z" fill="#ffb76e"/>
+</svg>
